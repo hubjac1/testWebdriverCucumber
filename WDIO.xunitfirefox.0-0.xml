@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="this_my_hello_world_feature1" timestamp="2017-03-03T06:17:54" time="1.126" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="e036d08fbf69e74c54349304d9f79f44"/>
+      <property name="suiteName" value="This my hello world feature1"/>
+      <property name="capabilities" value="firefox"/>
+    </properties>
+  </testsuite>
+  <testsuite name="google_page_work_properly3" timestamp="2017-03-03T06:17:54" time="1.124" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="e036d08fbf69e74c54349304d9f79f44"/>
+      <property name="suiteName" value="Google page work properly3"/>
+      <property name="capabilities" value="firefox"/>
+    </properties>
+    <testcase classname="firefox.Google page work properly3" name="a user on &quot;google.com&quot;4" time="1.393"/>
+    <testcase classname="firefox.Google page work properly3" name="he should see &quot;Google&quot; as titel5" time="0.289"/>
+  </testsuite>
+</testsuites>
